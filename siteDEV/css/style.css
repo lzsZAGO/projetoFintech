@@ -1,0 +1,108 @@
+*{ font-family: Arial;}
+
+body{
+    background-color: black;
+}
+
+div.card{
+    width: 20rem;
+    background-color: greenyellow;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div{
+    background-color: black;
+    color: greenyellow;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.card input{
+    background-color: black;
+    color: greenyellow;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div a.btn{
+    background-color: black;
+    color: greenyellow;
+    border-color: greenyellow;
+}
+
+input{
+    font-size: medium;
+    font-family: 'Gruppo', cursive;
+    color: greenyellow;
+    padding-left: 10px;
+    background-color: black;
+    border-color:greenyellow
+}
+
+nav div li.nav-item a:visited{
+    color: greenyellow;
+}
+
+nav div a.navbar-brand{
+    color: greenyellow;
+}
+
+nav div a.navbar-brand:hover{
+    color: greenyellow;
+}
+
+nav div a.navbar-brand:visited{
+    color: greenyellow;
+}
+
+nav div li.nav-item a{
+    color: greenyellow;
+}
+
+nav .navbar-nav{
+    margin: auto;
+}
+
+nav .dropdown-menu{
+    background-color: black;
+}
+
+nav .dropdown-menu li a.dropdown-item{
+    color: greenyellow;
+}
+
+nav div li.nav-item a:hover{
+    color: black;
+    background-color: greenyellow;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+footer{
+    bottom: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 12vh;
+    width: 100%;
+    position: absolute;
+}
+
+button{
+    font-size: medium;
+    color: greenyellow;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: black;
+    border-color:greenyellow
+}
+
+button a:visited{
+    color: greenyellow;
+}
